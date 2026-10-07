@@ -2,22 +2,22 @@
 
 💻 MERN Stack Developer | IT Graduate | AI & Web Development Enthusiast
 
-📧 Email Me 👉 [Your Email] for Collaboration, Projects, or Opportunities
+📧 Email Me 👉 ghulammemon875@gmail.com for Collaboration, Projects, or Opportunities
 
 🧑‍💻 I’m currently working on: Enter your current project here
 🚀 I’m currently learning: AI, Advanced MERN Stack & modern web technologies
 🤝 I’m looking to collaborate on: Web Development, MERN Stack & AI-based projects
 🔎 I’m looking for help with: Building real-world scalable applications
 💬 Ask me about: React, Node.js, Express.js, MongoDB & JavaScript
-📩 How to reach me: [Your Email / LinkedIn]
+📩 How to reach me: ghulammemon875@gmail.com / https://www.linkedin.com/in/gm-memon
 😄 Pronouns: He/Him
 ⚡ Fun fact: I enjoy turning ideas into working web applications
 
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+ <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ## 🌐 Socials:
